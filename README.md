@@ -1,6 +1,6 @@
 ## Wallpaper Protector
 
-Professional Windows utility that prevents unauthorized changes to your desktop wallpaper. Features real-time monitoring, registry protection, and seamless integration with Windows startup. Built with C# and .NET for maximum reliability and performance.
+Professional Windows utility that prevents unauthorized desktop wallpaper changes. Features real-time monitoring, registry protection, and Windows startup integration. Built with C# and .NET for maximum reliability.
 
 ## Overview
 
