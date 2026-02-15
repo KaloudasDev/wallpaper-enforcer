@@ -107,9 +107,9 @@ wallpaper-protector/
 ## Legal Disclaimer
 
 > [!CAUTION]
-> **USE AT YOUR OWN RISK**
+> **Use at your own risk**
 >
-> This software modifies Windows Registry settings and system behavior. While designed to be safe and reversible, improper use could affect system stability. The authors assume no responsibility for any issues arising from the use of this software.
+> This software modifies Windows Registry and system behavior. While designed to be safe, improper use could affect stability. Authors assume no responsibility for any issues.
 
 ## Important Notes
 
