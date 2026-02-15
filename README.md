@@ -156,4 +156,4 @@ Developed as a system administration utility demonstrating:
 - Security and permission handling
 
 > [!NOTE]
-> This tool is intended for legitimate system administration purposes only. Please ensure you have proper written authorization before deploying on any system you do not personally own.
+> This tool is intended for legitimate system administration purposes only. Please ensure you have explicit proper written authorization before deploying or installing on any system you do not personally own.
