@@ -122,7 +122,7 @@ wallpaper-protector/
 ## Troubleshooting
 
 **Q: Wallpaper keeps reverting even after Unlock?**  
-A: Ensure you've stopped the background monitor (option 2 does this automatically). If issues persist, restart your computer.
+A: Ensure you've stopped the background monitor. If issues persist, restart your computer.
 
 **Q: Can't set custom wallpaper?**  
 A: Verify the image file exists and is accessible. Supported formats: JPEG, PNG, BMP.
@@ -156,4 +156,4 @@ Developed as a system administration utility demonstrating:
 - Security and permission handling
 
 > [!NOTE]
-> This tool is intended for legitimate system administration purposes. Please ensure you have proper authorization before deploying on any system you do not personally own.
+> This tool is intended for legitimate system administration purposes only. Please ensure you have proper written authorization before deploying on any system you do not personally own.
