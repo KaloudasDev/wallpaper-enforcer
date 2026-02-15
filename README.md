@@ -102,7 +102,7 @@ wallpaper-protector/
 - **Disk Space**: ~50MB for published application
 
 > [!IMPORTANT]
-> Administrator privileges are required for full functionality. The application will automatically restart with admin rights when needed.
+> Administrator privileges are required for full functionality. The application will restart with admin rights when needed.
 
 ## Legal Disclaimer
 
