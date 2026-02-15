@@ -109,7 +109,7 @@ wallpaper-protector/
 > [!CAUTION]
 > **Use at your own risk**
 >
-> This software modifies Windows Registry and system behavior. While designed to be safe, improper use could affect stability. Authors assume no responsibility for any issues.
+> This software modifies Windows Registry and system behavior. While designed to be safe, improper use could affect stability. Authors assume no responsibility for any issues. Please use at your own risk.
 
 ## Important Notes
 
