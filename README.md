@@ -58,8 +58,8 @@ WallpaperProtector.exe /silent
 
 | Option | Function |
 |--------|----------|
-| **1. Lock & Protect** | Activates wallpaper protection, creates default wallpaper, locks registry, starts monitoring |
-| **2. Unlock & Remove** | Complete cleanup: removes registry locks, restores default settings, restarts Explorer, opens wallpaper settings |
+| **1. Lock & Protect** | Activates wallpaper protection, creates default wallpaper, locks registry |
+| **2. Unlock & Remove** | Complete cleanup: removes registry locks, restores default settings, restarts Explorer |
 | **3. Set Custom Wallpaper** | Copies and sets any image as the protected wallpaper |
 | **4. Check Status** | Displays current protection status, registry state, and wallpaper information |
 | **5. Install Auto-Start** | Adds program to Windows startup with silent mode |
