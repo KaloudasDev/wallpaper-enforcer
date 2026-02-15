@@ -4,7 +4,7 @@ Professional Windows utility that prevents unauthorized desktop wallpaper change
 
 ## Overview
 
-This application ensures a specific wallpaper remains set on Windows systems, automatically reverting any unauthorized changes. Ideal for educational institutions, corporate environments, or personal use where maintaining a consistent desktop appearance is required.
+This application ensures a specific wallpaper remains set on Windows systems, reverting unauthorized changes. Ideal for educational institutions, corporate environments, or personal use where maintaining a consistent desktop appearance is required.
 
 ## Key Features
 
